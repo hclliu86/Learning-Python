@@ -1,2 +1,3 @@
 # Learning-Python
 Trace how I learn Python
+I begin learning Python in Oct 2014, it's the first computer language I've learned. And I'm kind of on the way...
