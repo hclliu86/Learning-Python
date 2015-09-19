@@ -1,3 +1,1 @@
-# -*- coding: UTF-8 -*-
-__author__ = 'liuhc'
-"Welcome to Python"
+print("1th change")
